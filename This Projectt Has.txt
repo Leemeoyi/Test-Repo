@@ -1,0 +1,10 @@
+3d Model
+- Duck
+- Cat
+- DOg
+
+Programming
+- movement
+- audio
+- attack
+- enemy ai
