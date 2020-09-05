@@ -2,9 +2,13 @@
 - Duck
 - Cat
 - DOg
+- Johann Model
+- Potato chip model
 
 Programming
 - movement
 - audio
 - attack
 - enemy ai
+- johann speech
+- potato chip gun
