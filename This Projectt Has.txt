@@ -6,8 +6,10 @@
 - Potato chip model
 - apple juice bottle
 - kote
--dexuan pee
+- dexuan pee
 - Apple
+- Banana
+
 
 
 Programming
@@ -18,4 +20,3 @@ Programming
 - johann speech
 - potato chip gun
 - Audio Manager
-- 
