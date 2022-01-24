@@ -21,3 +21,4 @@ Programming
 - potato chip gun
 - Audio Manager
 - GTFO I'm lonely
+- David Model
